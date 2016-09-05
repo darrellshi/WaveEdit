@@ -1,0 +1,7 @@
+﻿  WaveEditView.cpp
+c:\users\shi180\cs390\waveedit\waveedit\waveeditview.cpp(88): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  WaveEdit.cpp
+  WaveEdit.vcxproj -> C:\Users\shi180\CS390\WaveEdit\Debug\WaveEdit.exe
+  WaveEdit.vcxproj -> C:\Users\shi180\CS390\WaveEdit\Debug\WaveEdit.pdb (Partial PDB)
